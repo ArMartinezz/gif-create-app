@@ -1,8 +1,31 @@
-# React + Vite
+# GifExpertApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Repository for the project GifExpertApp
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GIF searcher engine, using the Giphy API and powered by React
+
+## Getting Started
+
+### Requirements
+
+- Node.js
+
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/ArMartinezz/gif-create-app.git
+cd gif-create-app
+npm install
+npm run dev
+```
+
+You will need to enter your own API Key from Giphy at [getGifs.js](./src/helpers/getGifs.js)
+
+## Credits
+
+Project from [this online course](https://www.udemy.com/course/react-cero-experto/) by
+[Fernando Herrera](https://fernando-herrera.com/)
