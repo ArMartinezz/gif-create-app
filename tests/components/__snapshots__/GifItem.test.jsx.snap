@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas para GifItem.jsx Match Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Dog GIF by ViralHog"
+      src="https://media3.giphy.com/media/HzkZeQM6aHcodITVXf/giphy-downsized-medium.gif?cid=a1421da0rdcgni9gzmnijg3t8awj5jdf4metzs7r4yfftz6u&ep=v1_gifs_search&rid=giphy-downsized-medium.gif&ct=g"
+    />
+    <p>
+      Dog GIF by ViralHog
+    </p>
+  </div>
+</div>
+`;
